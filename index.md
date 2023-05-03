@@ -3,23 +3,15 @@
 layout: home
 
 hero:
-  name: "Gin navs"
-  text: "A nav site for CS knowledge"
-  tagline: My great project tagline
+  name: "知识导航"
+  text: "一个计算机知识导航小破站"
+  tagline: 包含...
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 编程思想
+      link: /05_think
 
 features:
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
