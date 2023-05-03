@@ -13,6 +13,7 @@ export default defineConfig({
       { text: "Go知识体系", link: "/04_go" },
       { text: "编程思想", link: "/05_think" },
     ],
+    logo: "../public/logo.png",
 
     // sidebar: {
     //   "/01_basic": [
