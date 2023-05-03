@@ -7,7 +7,7 @@ hero:
   text: "一个计算机知识导航小破站"
   # tagline: 包含...
   image:
-    src: ./public/logo.png
+    src: /logo.png
     alt: CapSolver
     height: 256
   actions:
